@@ -25,4 +25,3 @@ learningnotes | 学习笔记
 <br>
 
 <br>
-<img src="https://github.com/MemorialCheng/deep-learning-from-scratch/blob/master/learningnotes/images/timg.jpg" width=700>
